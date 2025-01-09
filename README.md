@@ -25,3 +25,8 @@ Disciplina do curso de Arquitetura de Software da IGTI - Instituto de Gestão e 
 - 2°Sem 2020
 
 -----
+
+### Sumário:
+- [Aulas em PDF](https://github.com/joaopauloaramuni/engenharia-de-requisitos/tree/main/PDF)
+
+-----
