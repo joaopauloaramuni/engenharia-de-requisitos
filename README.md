@@ -7,7 +7,9 @@
         </tr> 
         <tr>
             <td>
-                <img alt="xpe" width="1280px" height="250px" src="https://joaopauloaramuni.github.io/image/xpe-logo-2.png?raw=true"/>
+                <a href="https://www.xpeducacao.com.br/">
+                    <img alt="xpe" width="1280px" height="250px" src="https://joaopauloaramuni.github.io/image/xpe-logo-2.png?raw=true"/>
+                </a>
             </td>
         </tr>
         <tr>
