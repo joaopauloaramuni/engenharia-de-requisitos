@@ -7,7 +7,7 @@
         </tr> 
         <tr>
             <td>
-                <img alt="xpe" src="https://joaopauloaramuni.github.io/image/xpe-logo-2.png?raw=true"/>
+                <img alt="xpe" width="1280px" height="360px" src="https://joaopauloaramuni.github.io/image/xpe-logo-2.png?raw=true"/>
             </td>
         </tr>
         <tr>
